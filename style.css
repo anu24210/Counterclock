@@ -1,0 +1,26 @@
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 11em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(66, 4, 68);
+}
+
+#buttonSec{
+    text-align: center;
+}
+.buttons{
+    padding: 10px 20px;
+    font-size: medium;
+    color:rgb(50, 2, 46);
+    background-color:pink ;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.buttons:hover{
+    background-color:rgb(147, 31, 69) ;
+}
+#body{
+    background-image: url("bg1.png");
+}
